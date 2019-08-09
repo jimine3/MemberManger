@@ -12,7 +12,7 @@
 		<div><jsp:include page="menu.jsp"></jsp:include></div>
 		<div><p></div>
 				<c:if test = "${sname == null }">
-			<div><h3> 정상적으로 로그인 되어 있지 않습니다.</h3></div>
+			<div><h3> 정상적으로aasasasasasasasasasasa않습니다.</h3></div>
 		</c:if>
 		<c:if test = "${sname != null }">
 			<div><h3> ${sname } 님 정상적으로 로그아웃 되었습니다.</h3></div>
