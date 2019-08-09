@@ -26,7 +26,7 @@
 		<table border = "1">
 			<tr>
 				<td width="70" align="center"> 글번호</td>
-				<td width="100" align="center"> 작성자</td>
+				<td width="100" align="center"> 작sadadsad성자</td>
 				<td width="250" align="center"> 제 목</td>
 				<td width="100" align="center"> 작성일자</td>
 				<td width="150" align="center"> 첨부파일</td>
