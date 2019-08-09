@@ -15,7 +15,7 @@
 			<div><h3> 정상적으로aasasasasasasasasasasa않습니다.</h3></div>
 		</c:if>
 		<c:if test = "${sname != null }">
-			<div><h3> ${sname } 님 정상적으로 로그아웃 되었습니다.</h3></div>
+			<div><h3> ${sname } 님 정상적sadasd으로 로그아웃 되었습니다.</h3></div>
 			<% session.invalidate(); %> <!-- 세션 삭제 -->
 		</c:if>
 	</div>
